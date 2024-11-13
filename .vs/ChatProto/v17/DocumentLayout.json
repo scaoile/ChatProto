@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|c:\\users\\noname\\source\\repos\\chatproto\\chatproto\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|solutionrelative:chatproto\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|c:\\users\\noname\\source\\repos\\chatproto\\chatproto\\services\\geminiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|solutionrelative:chatproto\\services\\geminiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|c:\\users\\noname\\source\\repos\\chatproto\\chatproto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|solutionrelative:chatproto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|c:\\users\\noname\\source\\repos\\chatproto\\chatproto\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|solutionrelative:chatproto\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|c:\\users\\noname\\source\\repos\\chatproto\\chatproto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|solutionrelative:chatproto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|c:\\users\\noname\\source\\repos\\chatproto\\chatproto\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|solutionrelative:chatproto\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|c:\\users\\noname\\source\\repos\\chatproto\\chatproto\\models\\geminirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|solutionrelative:chatproto\\models\\geminirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|c:\\users\\noname\\source\\repos\\chatproto\\chatproto\\models\\geminiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|solutionrelative:chatproto\\models\\geminiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|c:\\users\\noname\\source\\repos\\chatproto\\chatproto\\models\\geminirequestfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|solutionrelative:chatproto\\models\\geminirequestfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|c:\\users\\noname\\source\\repos\\chatproto\\chatproto\\handlers\\geminidelegatinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|solutionrelative:chatproto\\handlers\\geminidelegatinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|c:\\users\\noname\\source\\repos\\chatproto\\chatproto\\options\\geminioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|solutionrelative:chatproto\\options\\geminioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|c:\\users\\noname\\source\\repos\\chatproto\\chatproto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|solutionrelative:chatproto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|c:\\users\\noname\\source\\repos\\chatproto\\chatproto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4C1B3F-A43A-45B1-A399-2966E901DF00}|ChatProto\\ChatProto.csproj|solutionrelative:chatproto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ChatProto\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ChatProto\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFUAAAAAAAAAAABBwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T10:51:47.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Views\\Chat\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChatProto\\Views\\Chat\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Views\\Chat\\Index.cshtml",
+              "RelativeToolTip": "ChatProto\\Views\\Chat\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T10:35:11.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "ChatProto\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "ChatProto\\Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:32:49.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Program.cs",
+              "RelativeDocumentMoniker": "ChatProto\\Program.cs",
+              "ToolTip": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Program.cs",
+              "RelativeToolTip": "ChatProto\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:29:41.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "ChatProto\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "ChatProto\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:28:05.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeminiClient.cs",
+              "DocumentMoniker": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Services\\GeminiClient.cs",
+              "RelativeDocumentMoniker": "ChatProto\\Services\\GeminiClient.cs",
+              "ToolTip": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Services\\GeminiClient.cs",
+              "RelativeToolTip": "ChatProto\\Services\\GeminiClient.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:21:05.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GeminiDelegatingHandler.cs",
+              "DocumentMoniker": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Handlers\\GeminiDelegatingHandler.cs",
+              "RelativeDocumentMoniker": "ChatProto\\Handlers\\GeminiDelegatingHandler.cs",
+              "ToolTip": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Handlers\\GeminiDelegatingHandler.cs",
+              "RelativeToolTip": "ChatProto\\Handlers\\GeminiDelegatingHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:17:23.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeminiRequestFactory.cs",
+              "DocumentMoniker": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Models\\GeminiRequestFactory.cs",
+              "RelativeDocumentMoniker": "ChatProto\\Models\\GeminiRequestFactory.cs",
+              "ToolTip": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Models\\GeminiRequestFactory.cs",
+              "RelativeToolTip": "ChatProto\\Models\\GeminiRequestFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:09:41.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeminiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Models\\GeminiResponse.cs",
+              "RelativeDocumentMoniker": "ChatProto\\Models\\GeminiResponse.cs",
+              "ToolTip": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Models\\GeminiResponse.cs",
+              "RelativeToolTip": "ChatProto\\Models\\GeminiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:08:27.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeminiRequest.cs",
+              "DocumentMoniker": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Models\\GeminiRequest.cs",
+              "RelativeDocumentMoniker": "ChatProto\\Models\\GeminiRequest.cs",
+              "ToolTip": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Models\\GeminiRequest.cs",
+              "RelativeToolTip": "ChatProto\\Models\\GeminiRequest.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:06:37.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GeminiOptions.cs",
+              "DocumentMoniker": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Options\\GeminiOptions.cs",
+              "RelativeDocumentMoniker": "ChatProto\\Options\\GeminiOptions.cs",
+              "ToolTip": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Options\\GeminiOptions.cs",
+              "RelativeToolTip": "ChatProto\\Options\\GeminiOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:36:54.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatProto\\appsettings.json",
+              "ToolTip": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\appsettings.json",
+              "RelativeToolTip": "ChatProto\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T09:32:18.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChatProto\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NONAME\\source\\repos\\ChatProto\\ChatProto\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ChatProto\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T09:31:28.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
